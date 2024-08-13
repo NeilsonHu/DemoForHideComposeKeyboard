@@ -12,7 +12,7 @@ General and recommended way to hide the keyboard on both platforms:
 #### 1. Tapping non-editable area or scrolling the screen to hide the keyboard
 
 - This can be done by adding a tap gesture to the container view.
-- [:upside_down_face:]In compose, the tap gesture has a ripple effect that needs to customize for iOS
+- :upside_down_face:In compose, the tap gesture has a ripple effect that needs to customize for iOS
 
 |               iOS tapping              |               iOS Dragging             |        Android tapping & Dragging        |
 |:--------------------------------------:|:--------------------------------------:|:----------------------------------------:|
@@ -21,7 +21,7 @@ General and recommended way to hide the keyboard on both platforms:
 #### 2. Clicking return button to hide keyboard
 
 - This can be done by customizing the return button action of the keyboard.
-- [:upside_down_face:]Then it means users can not break the line by return button.
+- :upside_down_face:Then it means users can not break the line by return button.
 
 |                iOS                   |                   Android                |
 |:------------------------------------:|:----------------------------------------:|
@@ -29,8 +29,8 @@ General and recommended way to hide the keyboard on both platforms:
 
 #### 3. Adding a button on top of the keyboard to hide the keyboard.
 
-- [:upside_down_face:]This is easy to handle on iOS, but not for compose.
-- [:upside_down_face:]When there is another button like "Submit" in the same place, it will be super ugly to have them both.
+- :upside_down_face:This is easy to handle on iOS, but not for compose.
+- :upside_down_face:When there is another button like "Submit" in the same place, it will be super ugly to have them both.
 
 |                 iOS                  |
 |:------------------------------------:|
