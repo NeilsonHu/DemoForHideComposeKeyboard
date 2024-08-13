@@ -34,7 +34,7 @@ General and recommended way to hide the keyboard on both platforms:
 
 |                 iOS                  |
 |:------------------------------------:|
-| ![image](./DemoRecordings/2-ios.gif) |
+| ![image](./DemoRecordings/3-ios.gif) |
 
 ---
 
